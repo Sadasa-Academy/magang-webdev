@@ -1,5 +1,9 @@
-# Kualifikasi Web Development
+# Web Development
 Lagi cari tempat magang untuk menyelesaikan mata kuliah praktik industri atau praktik kerja lapangan? Kamu bisa magang di Sadasa Academy.
+
+## Kualifikasi Umum
+- Prodi Teknik Informatika, Teknologi Informasi, atau Jurusan yang berkaitan
+- Min Semester 5
 
 ## Front End Developer
 - Memiliki kemampuan HTML, CSS, dan JavaScript
