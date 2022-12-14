@@ -1,6 +1,5 @@
 # Kualifikasi Web Development
-Deskripsi magang di Sadasa Academy sebagai Web Development
-
+Lagi cari tempat magang untuk menyelesaikan mata kuliah praktik industri atau praktik kerja lapangan? Kamu bisa magang di Sadasa Academy.
 
 ### Front End Developer
 - Memiliki kemampuan HTML, CSS, dan JavaScript
@@ -11,6 +10,10 @@ Deskripsi magang di Sadasa Academy sebagai Web Development
 - Memiliki kemampuan HTML, JavaScript, dan PHP (Laravel)
 - Bisa membuat REST API
 - Terbiasa menggunakan GIT (Github)
+
+### Benefit Magang
+- Pengalaman membuat website berdasarkan studi kasus
+- Kerja sama antar divisi dan antar tim
 
 Tertarik? Kirim CV dan Portofolio ke **info@sadasa.id** dan cc ke **webdev.khamim@gmail.com** 
 
