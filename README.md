@@ -47,3 +47,7 @@ Subject Email: **Magang Web Development**
 - Mengetahui PHP beserta Framework Laravel
 - Mengetahui CSS Dasar (Framework Bootstrap)
 - Mengetahui Version Control (Git/Github)
+
+Tertarik? Kirim CV dan Portofolio ke **info@sadasa.id** dan cc ke **webdev.khamim@gmail.com** 
+
+Subject Email: **Magang SMK Web Development**
