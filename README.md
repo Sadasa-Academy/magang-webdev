@@ -34,3 +34,16 @@ Lagi cari tempat magang untuk menyelesaikan mata kuliah praktik industri atau pr
 Tertarik? Kirim CV dan Portofolio ke **info@sadasa.id** dan cc ke **webdev.khamim@gmail.com** 
 
 Subject Email: **Magang Web Development**
+
+-----------------------------------
+
+# Magang SMK
+
+## Kualifikasi Umum
+- Prodi Rekayasa Perangkat Lunak, atau Jurusan yang berkaitan
+- Pernah membuat website, dikirim portofolio-nya
+
+## Kemampuan
+- Mengetahui PHP beserta Framework Laravel
+- Mengetahui CSS Dasar (Framework Bootstrap)
+- Mengetahui Version Control (Git/Github)
